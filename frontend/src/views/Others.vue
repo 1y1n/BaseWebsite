@@ -1,6 +1,6 @@
 <template>
 <div>
-    <h1>tools</h1>
+    <h1>others</h1>
     <Row>
         <i-col span="3">
             <Card class="card">

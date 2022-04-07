@@ -23,10 +23,10 @@ export default new Router({
                 import(/* webpackChunkName: "about" */ './views/About.vue')
         },
         {
-            path: '/tools',
-            name: 'tools',
+            path: '/others',
+            name: 'others',
             component: () =>
-                import(/* webpackChunkName: "tools" */ './views/tools.vue')
+                import(/* webpackChunkName: "others" */ './views/Others.vue')
         }
     ]
 })

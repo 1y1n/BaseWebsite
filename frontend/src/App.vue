@@ -5,9 +5,9 @@
                 <Icon type="ios-paper" />
                 首页
             </MenuItem>
-            <MenuItem name="2" to="/tools">
+            <MenuItem name="2" to="/others">
                 <Icon type="ios-people" />
-                工具
+                其它
             </MenuItem>
             <MenuItem name="3" to="/about">
                 <Icon type="ios-construct" />
